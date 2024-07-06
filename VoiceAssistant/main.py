@@ -1,5 +1,5 @@
 # A program that takes a request from a user and responds
-# through speech or performs the task. 
+# through speech and/or performs a task. 
 
 import pyttsx3
 import speech_recognition as sr
