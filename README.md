@@ -1,6 +1,6 @@
 # Voice-assistant    :microphone:
 
-#### A program which takes a request from a user and responds through speech or performs the task.
+#### A program which takes a request from a user and responds through speech and/or performs a task.
 ### Technology Used:
 This project was created using Python. 
 
